@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naksh369
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning python
-- 😄 Fun fact: I am 13 year old
+- 🌱 I’m currently learning website development & MySql and I already know python
+- 😄 Fun fact: I am 14 year old
 
 <!---
 Naksh369/Naksh369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
