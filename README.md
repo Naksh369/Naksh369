@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Naksh369
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning website development & MySql and I already know python
 - 😄 Fun fact: I am 14 year old
 
 <!---
